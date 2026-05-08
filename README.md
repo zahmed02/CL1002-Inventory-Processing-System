@@ -2,7 +2,7 @@
 
 ## Course: CL1002 Programming Fundamentals Lab
 
-## Instructor & Project Supervisor: Miss Atiya Jokhio
+## Instructor: Miss Atiya Jokhio
 
 ## File Structure
 
