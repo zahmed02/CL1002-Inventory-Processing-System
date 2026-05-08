@@ -1,3 +1,9 @@
+# CL1002 Inventory Processing System
+
+## Course: CL1002 Programming Fundamentals Lab
+
+## Instructor & Project Supervisor: Miss Atiya Jokhio
+
 ## File Structure
 
 - **`Main.c`**  
