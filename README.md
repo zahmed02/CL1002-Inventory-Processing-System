@@ -1,4 +1,4 @@
-# CL1002 Inventory Processing System
+# Inventory Processing System
 
 ## Course: CL1002 Programming Fundamentals Lab
 
